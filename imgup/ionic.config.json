@@ -1,0 +1,7 @@
+{
+  "name": "imgup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
